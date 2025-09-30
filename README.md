@@ -7,9 +7,14 @@ About me
 - Interested in Backend Development, Machine Learning, and Artificial Intelligence.  
 - Expected Graduation: 2029  
 
-Skills
-- Languages: C++, Python, JavaScript, HTML 
-- Topics: Machine Learning, AI, Backend Development  
+# Skills & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=keras&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Currently learning
 - JavaScript (for Backend & Full-Stack)   
