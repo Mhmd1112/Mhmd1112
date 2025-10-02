@@ -1,6 +1,6 @@
 # Mohammed Yasser Abdelsalam
 
-Electrical Engineering Student | Learning Backend Development
+Electrical Engineering Student 
 
 About me
 - Electrical Engineering student at Cairo University.  
