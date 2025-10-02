@@ -17,7 +17,8 @@ About me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Currently learning
-- JavaScript (for Backend & Full-Stack)   
+• Currently learning: Python (NumPy, Pandas, Data Analysis).
+ • Exploring: JavaScript basics to integrate AI with web apps in the future
 
 Projects / Notes
 - 🔭 Projects and notes: Learning-JavaScript, C++-examples, ML-notes  
