@@ -1,26 +1,24 @@
-# Mohammed Yasser Abdelsalam
+# 💫 About Me:
+<br>Electrical Engineering student at Cairo University.<br>Interested in Machine Learning, and Artificial Intelligence.<br>Expected Graduation: 2029<br> Currently learning: Python (NumPy, Pandas, Data Analysis).
 
-Electrical Engineering Student 
 
-About me
-- Electrical Engineering student at Cairo University.  
-- Interested in Backend Development, Machine Learning, and Artificial Intelligence.  
-- Expected Graduation: 2029  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohhammed_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/mohammedyasserr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmd.yaserr807@gmail.com) 
 
-# Skills & Tools
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mhmd1112&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mhmd1112&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd1112&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=keras&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-• Currently learning: Python (NumPy, Pandas, Data Analysis).
- • Exploring: JavaScript basics to integrate AI with web apps in the future
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mhmd1112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Projects / Notes
-- 🔭 Projects and notes: Learning-JavaScript, C++-examples, ML-notes  
-- 📫 Contact: mhmd.yaserr807@gmail.com 
-- 🔗 LinkedIn: http://linkedin.com/in/mohammedyasserr
 ---
+[![](https://visitcount.itsvg.in/api?id=Mhmd1112&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
