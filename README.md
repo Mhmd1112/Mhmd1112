@@ -1,21 +1,44 @@
-# 💫 About Me:
-<br>Electrical Engineering student at Cairo University.<br>Interested in Machine Learning, and Artificial Intelligence.<br>Expected Graduation: 2029<br> Currently learning: Python (NumPy, Pandas, Data Analysis).
+# Mohamed Yasser
+**Electrical Engineering Student | Cairo University**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohhammed_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/mohammedyasserr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmd.yaserr807@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mhmd1112&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mhmd1112&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd1112&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mhmd1112&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Focused on the synergy between **Embedded Systems** and **Artificial Intelligence**. Currently developing expertise in real-time firmware development and the deployment of machine learning models on resource-constrained hardware (Edge AI / TinyML).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mhmd1112&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Technical Focus
+- **Embedded Systems:** Firmware development in C/C++, RTOS, and hardware abstraction for ESP32 and ARM Cortex-M architectures.
+- **Artificial Intelligence:** Designing lightweight neural networks and data processing pipelines for edge deployment.
+- **Hardware Design:** Circuit analysis and sensor integration for autonomous systems.
+
+### Technology Stack
+**Core Programming & Hardware**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+**Data Science & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+### Professional Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhmd1112&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd1112&theme=dark&layout=compact&hide_border=true" height="150" />
+</p>
+
+---
+
+### Connectivity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedyasserr) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmd.yaserr807@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mhmd1112)
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Mhmd1112&icon=0&color=black" />
+</p>
